@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/ReactiveDevices/static/css/main.d2c71a52.chunk.css",
+    "main.js": "/ReactiveDevices/static/js/main.10c19420.chunk.js",
+    "main.js.map": "/ReactiveDevices/static/js/main.10c19420.chunk.js.map",
+    "runtime-main.js": "/ReactiveDevices/static/js/runtime-main.e48dd8df.js",
+    "runtime-main.js.map": "/ReactiveDevices/static/js/runtime-main.e48dd8df.js.map",
+    "static/js/2.cd8fa8bd.chunk.js": "/ReactiveDevices/static/js/2.cd8fa8bd.chunk.js",
+    "static/js/2.cd8fa8bd.chunk.js.map": "/ReactiveDevices/static/js/2.cd8fa8bd.chunk.js.map",
+    "index.html": "/ReactiveDevices/index.html",
+    "static/css/main.d2c71a52.chunk.css.map": "/ReactiveDevices/static/css/main.d2c71a52.chunk.css.map",
+    "static/js/2.cd8fa8bd.chunk.js.LICENSE.txt": "/ReactiveDevices/static/js/2.cd8fa8bd.chunk.js.LICENSE.txt",
+    "static/media/Dropdown.scss": "/ReactiveDevices/static/media/ArrowUp.bca5376b.svg",
+    "static/media/Slider.scss": "/ReactiveDevices/static/media/ArrowRight.c0d01b22.svg",
+    "static/media/BackButton.scss": "/ReactiveDevices/static/media/ArrowRight_black.134598a3.svg",
+    "static/media/BreadCrumbs.scss": "/ReactiveDevices/static/media/Home.e110292a.svg",
+    "static/media/Header.scss": "/ReactiveDevices/static/media/icon_logo.c9417692.svg",
+    "static/media/CartPage.scss": "/ReactiveDevices/static/media/Plus.60b4bc00.svg",
+    "static/media/AddToLike.scss": "/ReactiveDevices/static/media/Favourites.790366e0.svg",
+    "static/media/ProductCard.scss": "/ReactiveDevices/static/media/toFovouritesAdded.d1cb0efa.svg",
+    "static/media/ProductsSlider.scss": "/ReactiveDevices/static/media/Slider_button_Disabled_right.a374b573.svg",
+    "static/media/banner-accessories.bdd2e0fc.png": "/ReactiveDevices/static/media/banner-accessories.bdd2e0fc.png",
+    "static/media/banner-phones.b4eeda8b.png": "/ReactiveDevices/static/media/banner-phones.b4eeda8b.png",
+    "static/media/banner-tablets.a962057c.png": "/ReactiveDevices/static/media/banner-tablets.a962057c.png",
+    "static/media/ProductDetailsPage.scss": "/ReactiveDevices/static/media/black.915b0be7.svg",
+    "static/media/category-accessories.c89ddada.png": "/ReactiveDevices/static/media/category-accessories.c89ddada.png",
+    "static/media/category-phones.9d91280e.png": "/ReactiveDevices/static/media/category-phones.9d91280e.png",
+    "static/media/category-tablets.ab919a9b.png": "/ReactiveDevices/static/media/category-tablets.ab919a9b.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e48dd8df.js",
+    "static/js/2.cd8fa8bd.chunk.js",
+    "static/css/main.d2c71a52.chunk.css",
+    "static/js/main.10c19420.chunk.js"
+  ]
+}
