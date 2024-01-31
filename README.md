@@ -1,7 +1,7 @@
 ### Reactive Devices Project Overview 📱🛒
 
 #### Project Description
-Reactive Devices aims to create a responsive product catalog for mobile phones and accessories. The project utilizes a Figma design and external APIs for fetching product data. It features product listings, detailed pages, a shopping cart, favorites functionality, and search capabilities.
+[Reactive Devices](https://ukrainiane-panda.github.io/ReactiveDevices/) aims to create a responsive product catalog for mobile phones and accessories. The project utilizes a Figma design and external APIs for fetching product data. It features product listings, detailed pages, a shopping cart, favorites functionality, and search capabilities.
 
 #### Project Structure
 - **pages**: Individual page components (Home, Phones, Tablets, Accessories, ProductDetails, Cart, Favorites, Search, NotFound).
@@ -54,9 +54,3 @@ Reactive Devices aims to create a responsive product catalog for mobile phones a
 - "Back to top" button on the home page.
 - Automatic saving of the Cart to localStorage.
 - Display total quantity near the Cart icon in the header.
-
-#### External Dependencies
-- External APIs for fetching product data.
-- GitHub repository link in the footer.
-
-*Note: This condensed overview provides a snapshot of the Reactive Devices project, highlighting its key features, structure, and future considerations for the GitHub README file.*
